@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkks_wiki=self.webpackChunkks_wiki||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/ks-wiki/blog","blogTitle":"Blog","authorsListPath":"/ks-wiki/blog/authors"}')}}]);
