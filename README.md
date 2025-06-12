@@ -1,7 +1,7 @@
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
+this repo contains docs that help onboard users
 ## Installation
 
 ```bash
